@@ -75,14 +75,14 @@ my %base = (
 		sha1 => 'a0f58cad836a410f6ba133aaa209aea7e54aaf8a'
 	},
 	byte_buddy => {
-		url => 'https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.14.12/byte-buddy-1.14.12.jar',
+		url => 'https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.15.3/byte-buddy-1.15.3.jar',
 		fname => 'byte-buddy.jar',
-		sha1 => '6e37f743dc15a8d7a4feb3eb0025cbc612d5b9e1'
+		sha1 => '01b3069696cd9ed55d90b9114ffe3429035ff924'
 	},
 	byte_buddy_agent => {
-		url => 'https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.14.12/byte-buddy-agent-1.14.12.jar',
+		url => 'https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.15.3/byte-buddy-agent-1.15.3.jar',
 		fname => 'byte-buddy-agent.jar',
-		sha1 => 'be4984cb6fd1ef1d11f218a648889dfda44b8a15'
+		sha1 => 'e619d89ed41a6cedc23bee3549cec8c4ffdaee7b'
 	 },
 	objenesis => {
 		url => 'https://repo1.maven.org/maven2/org/objenesis/objenesis/3.3/objenesis-3.3.jar',
